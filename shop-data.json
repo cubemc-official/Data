@@ -1,0 +1,11 @@
+{
+  "ranks":{
+    "cube+": {
+      "labels": []
+    },
+    "vip": {
+      "labels": ["Creeper? Aw man!", "Mama Battles"],
+      "capes": ["vip_cape"]
+    }
+  }
+}
