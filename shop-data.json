@@ -5,7 +5,8 @@
     },
     "vip": {
       "labels": ["Creeper? Aw man!", "Mama Battles"],
-      "capes": ["vip_cape"]
+      "capes": ["vip_cape"],
+      "subscriber": true
     }
   }
 }
